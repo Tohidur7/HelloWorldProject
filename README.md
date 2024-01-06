@@ -1,6 +1,6 @@
-# Project Name
+# Hello World Project
 
-Short project description goes here.
+This is a demo project to understand git and github
 
 ## Table of Contents
 
